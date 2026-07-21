@@ -65,20 +65,6 @@ Asset-Manager/
 
 ---
 
-## ⚙️ Installation
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/Asset-Manager.git
-```
-
-### Navigate to the Project
-
-```bash
-cd Asset-Manager
-```
-
 ### Install Dependencies
 
 Frontend
@@ -116,18 +102,6 @@ The application will be available at
 ```
 http://localhost:5173
 ```
-
----
-
-## 📸 Screenshots
-
-Add screenshots of:
-
-- Home Page
-- Dashboard
-- Search Page
-- Internship Details
-- User Profile
 
 ---
 
